@@ -24,4 +24,5 @@ RSpec.describe Point do
     end
 
   end
+
 end
