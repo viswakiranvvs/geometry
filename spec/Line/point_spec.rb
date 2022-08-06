@@ -22,5 +22,6 @@ RSpec.describe Point do
       x_access_attribute='x='.to_sym
       expect(point_instance_methods.include?(x_access_attribute)).to eq(false)
     end
+
   end
 end
